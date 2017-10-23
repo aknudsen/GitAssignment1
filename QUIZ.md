@@ -9,3 +9,4 @@ Git enables saving code by giving you a workspace, a staging area, and the repos
 Git enables tracking code by logging every commit that the code goes through. It saves the entire directory at each commit. This allows a user to go back to a past commit if problems develop.
 
 3. Explain how git enables sharing code.
+Git enables sharing code by allowing a user to share a codebase with another user. Both user can then work on the code independently and develop different branches of the code.
